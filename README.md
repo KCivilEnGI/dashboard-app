@@ -9,6 +9,6 @@ This library provides good sidebar functions and design, and it's also easy to c
 ### Formik and Yup
 These two are used for the form and the validation of the data that users entered.
 ### Full Calendar
-This library gives a good schedule system for users to enter the events.
+This library provides a good scheduling system for users to arrange their schedules.
 ### Nivo Chart
 Nivo Charts is the library that is built on the D3 JavaScript library, providing different types of charts including maps.
